@@ -4,7 +4,7 @@ A machine Learning Based Python Application to scrape News data distribute among
 Watch the video for Demo
 
 
-[![Watch the video](https://img.youtube.com/vi/fFC-ClXQh_c/maxresdefault.jpg)](https://youtu.be/fFC-ClXQh_c)
+[![Watch the video](https://img.youtube.com/vi/fFC-ClXQh_c/hqdefault.jpg)](https://youtu.be/fFC-ClXQh_c)
 
 
 For more Visit:
